@@ -1,0 +1,1 @@
+workspace = { members = ["crates/miinike-core", "crates/miinike-lang", "crates/miinike-web"] }
